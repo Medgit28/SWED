@@ -1,0 +1,13 @@
+com\mehdi\HtmlComparison.class
+com\mehdi\NotificationService.class
+com\mehdi\NotificationPreference.class
+com\mehdi\SubscriptionManager.class
+com\mehdi\TextComparison.class
+com\mehdi\SizeComparison.class
+com\mehdi\WebsiteComparison.class
+com\mehdi\User.class
+com\mehdi\Main.class
+com\mehdi\Observer.class
+com\mehdi\CommunicationChannel.class
+com\mehdi\Subject.class
+com\mehdi\Subscription.class
